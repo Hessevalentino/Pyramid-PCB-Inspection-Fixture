@@ -1,0 +1,14 @@
+# Handle line endings automatically for files detected as text
+* text=auto
+
+# Force binary treatment for 3D files
+*.stl binary
+*.ipt binary
+*.idw binary
+*.pdf binary
+
+# Text files
+*.md text
+*.txt text
+LICENSE text
+
