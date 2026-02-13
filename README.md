@@ -88,6 +88,6 @@ For questions or commercial inquiries, please open an issue in this repository.
 
 ---
 
-**Copyright © 2024 Valentino Hesse**
+**Copyright © 2025 Valentino Hesse**
 Licensed under CERN-OHL-P v2
 
