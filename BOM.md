@@ -12,13 +12,20 @@ This document lists all materials and components required to manufacture the Pyr
 
 | Item | Description | Specification | Quantity | Unit | Notes |
 |------|-------------|---------------|----------|------|-------|
-| 1 | ESD-Safe 3D Printing Filament | ESD PET/PETG, 1.75mm or 2.85mm | ~50g | per piece | See approved materials below |
+| 1 | ESD-Safe 3D Printing Filament | ESD PET/PETG, 1.75mm or 2.85mm | ~20g | per piece | See approved materials below |
+
+**Model Dimensions:** 56.57 × 30.00 × 40.00 mm (L × W × H)
+**Material Usage:** Approximately 20g per piece with recommended print settings (see section 3.3)
+**Note:** Actual filament consumption may vary ±10% depending on printer calibration and specific settings.
 
 ### 1.2 Non-ESD Version (pyramid-NOesd.stl)
 
 | Item | Description | Specification | Quantity | Unit | Notes |
 |------|-------------|---------------|----------|------|-------|
-| 1 | Standard 3D Printing Filament | PET/PETG, 1.75mm or 2.85mm | ~50g | per piece | For non-sensitive applications only |
+| 1 | Standard 3D Printing Filament | PET/PETG, 1.75mm or 2.85mm | ~20g | per piece | For non-sensitive applications only |
+
+**Model Dimensions:** Similar to ESD version
+**Material Usage:** Approximately 20g per piece with recommended print settings
 
 ---
 
@@ -127,13 +134,14 @@ The following materials have been tested and approved for automotive Class 3 ESD
 
 | Item | Cost per Unit | Notes |
 |------|---------------|-------|
-| ESD Filament (50g) | $3 - $5 USD | Based on 1kg spool at $60-100 |
-| Standard Filament (50g) | $1 - $2 USD | Based on 1kg spool at $20-40 |
+| ESD Filament (20g) | $1.20 - $2.00 USD | Based on 1kg spool at $60-100 |
+| Standard Filament (20g) | $0.40 - $0.80 USD | Based on 1kg spool at $20-40 |
 | Print Time | ~2-3 hours | Depends on printer and settings |
 | Testing (ESD version) | $10 - $20 USD | If outsourced |
+| Energy Cost | ~$0.20 - $0.40 USD | Based on typical 3D printer consumption |
 
-**Total Cost per Unit (ESD):** ~$15 - $30 USD (including testing)  
-**Total Cost per Unit (Non-ESD):** ~$2 - $5 USD
+**Total Cost per Unit (ESD):** ~$12 - $23 USD (including testing)
+**Total Cost per Unit (Non-ESD):** ~$1 - $2 USD (material + energy only)
 
 ---
 
