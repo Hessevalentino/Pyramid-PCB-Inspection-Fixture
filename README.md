@@ -25,6 +25,9 @@ This project originated as an original invention during professional work. The d
 - **Manufacturing Technology:** Additive manufacturing (3D printing)
 - **Industry Sector:** Automotive
 
+<img width="1108" height="782" alt="image" src="https://github.com/user-attachments/assets/7f60f68c-e886-4691-af0a-8c08a72c8ced" />
+
+
 #### Required ESD Material Parameters
 
 | Parameter | Value | Standard |
@@ -45,6 +48,9 @@ This project originated as an original invention during professional work. The d
 - **`pyramid.stl`** - STL file for additive manufacturing
 - **`pyramid.pdf`** - PDF documentation and technical drawing
 - **`LICENSE`** - Full text of CERN-OHL-P v2 license
+
+<img width="338" height="791" alt="image" src="https://github.com/user-attachments/assets/541fba48-d1d3-4bc1-9168-c8fef737f196" />
+
 
 ### Usage
 
