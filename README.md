@@ -58,6 +58,11 @@ This project originated as an original invention during professional work. The d
 2. Print on a 3D printer using ESD PET material
 3. Use as a fixture for PCB during microscopic analysis
 
+<img width="1073" height="599" alt="image" src="https://github.com/user-attachments/assets/26e5fd2b-e646-40a4-898c-ed8ceea7ce9d" />
+<img width="1080" height="594" alt="image" src="https://github.com/user-attachments/assets/1c3afd79-113a-42d1-a879-817b76296173" />
+
+
+
 ### Design Modifications
 
 To modify the design:
