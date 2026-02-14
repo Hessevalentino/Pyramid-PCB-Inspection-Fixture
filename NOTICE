@@ -1,0 +1,92 @@
+PYRAMID PCB INSPECTION FIXTURE
+Copyright Notice and License Information
+
+================================================================================
+
+Copyright © 2025 Valentino Hesse
+All rights reserved under CERN Open Hardware Licence Version 2 - Permissive
+
+================================================================================
+
+PROJECT INFORMATION
+
+Project Name:    Pyramid PCB Inspection Fixture
+Version:         2.0
+Revision Date:   February 14, 2026
+Author:          Valentino Hesse
+Contact:         https://github.com/Hessevalentino/Pyramid-PCB-Inspection-Fixture
+
+================================================================================
+
+LICENSE
+
+This hardware design is licensed under the CERN Open Hardware Licence Version 2 
+- Permissive (CERN-OHL-P v2).
+
+You are free to:
+  - Use, study, modify, and distribute this hardware design
+  - Make products based on this design
+  - Use this design for commercial purposes
+  - Sell products manufactured from this design
+
+Under the following conditions:
+  - You must retain this notice and all copyright notices
+  - You must provide attribution to the original author (Valentino Hesse)
+  - You must include a copy of or reference to the CERN-OHL-P v2 license
+  - Modified versions must be clearly marked as such
+
+Full license text: See LICENSE file in this repository
+License URL: https://ohwr.org/cern_ohl_p_v2.txt
+SPDX Identifier: CERN-OHL-P-2.0
+
+================================================================================
+
+SOURCE LOCATION
+
+The complete source files for this hardware design are available at:
+https://github.com/Hessevalentino/Pyramid-PCB-Inspection-Fixture
+
+Source files include:
+  - pyramid.ipt (Autodesk Inventor Part - editable source)
+  - pyramid.idw (Autodesk Inventor Drawing - technical documentation)
+  - pyramid.stl (STL for 3D printing - ESD version)
+  - pyramid-NOesd.stl (STL for 3D printing - non-ESD version)
+  - pyramid.pdf (Technical drawing and specifications)
+
+================================================================================
+
+INDUSTRY COMPLIANCE
+
+This design was developed for automotive industry applications and is intended
+for use with PCB inspection in Class 3 environments according to IPC-A-610.
+
+ESD Compliance: IEC 61340-5-1
+Industry Sector: Automotive
+Application: PCB microscopic inspection fixture
+
+================================================================================
+
+DISCLAIMER
+
+This hardware design is provided "as is" without warranty of any kind, express
+or implied. The author shall not be liable for any damages arising from the use
+of this design. Users are responsible for ensuring compliance with all applicable
+safety standards and regulations in their jurisdiction.
+
+================================================================================
+
+MODIFICATIONS
+
+If you modify this design, you must:
+  1. Clearly mark your modifications
+  2. Document what was changed and when
+  3. Update the CHANGELOG.md file
+  4. Retain this notice with appropriate modifications noted
+
+================================================================================
+
+For questions, issues, or contributions, please visit:
+https://github.com/Hessevalentino/Pyramid-PCB-Inspection-Fixture
+
+================================================================================
+
