@@ -74,8 +74,8 @@ This project originated as an original invention during professional work. The d
 
 | Parameter | Value | Standard |
 |-----------|-------|----------|
-| Surface Resistivity | 10⁶ - 10⁹ Ω/sq | IEC 61340-5-1 |
-| Volume Resistivity | 10⁴ - 10¹¹ Ω·cm | IEC 61340-5-1 |
+| Surface Resistivity | 10⁶ - 10⁹ Ω | IEC 61340-5-1 |
+| Volume Resistivity | 10⁴ - 10¹¹ Ω·cm2 | IEC 61340-5-1 |
 | Charge Decay Time | < 2 s | IEC 61340-5-1 |
 | Printing Temperature | 230 - 250 °C | - |
 | Bed Temperature | 70 - 85 °C | - |
