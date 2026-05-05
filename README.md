@@ -9,7 +9,11 @@
 [![Automotive](https://img.shields.io/badge/Industry-Automotive-red.svg)](https://en.wikipedia.org/wiki/Automotive_industry)
 [![Made with Inventor](https://img.shields.io/badge/Made%20with-Autodesk%20Inventor-0696D7.svg)](https://www.autodesk.com/products/inventor/)
 [![IPC Class 3](https://img.shields.io/badge/IPC-Class%203-brightgreen.svg)](https://www.ipc.org/)
-[![OSHWA Certified](https://img.shields.io/badge/OSHWA-CZ000014-0099b0?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiMwMDk5YjAiLz48L3N2Zz4=)](https://certification.oshwa.org/cz000014.html)
+## Open Source Hardware
+
+[![OSHWA Certified CZ000014](https://img.shields.io/badge/OSHWA-CZ000014-0099b0?style=for-the-badge)](https://certification.oshwa.org/cz000014.html)
+
+This project is certified open source hardware by the [Open Source Hardware Association](https://www.oshwa.org/) under UID **[CZ000014](https://certification.oshwa.org/cz000014.html)**.
 
 ---
 
