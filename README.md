@@ -9,7 +9,7 @@
 [![Automotive](https://img.shields.io/badge/Industry-Automotive-red.svg)](https://en.wikipedia.org/wiki/Automotive_industry)
 [![Made with Inventor](https://img.shields.io/badge/Made%20with-Autodesk%20Inventor-0696D7.svg)](https://www.autodesk.com/products/inventor/)
 [![IPC Class 3](https://img.shields.io/badge/IPC-Class%203-brightgreen.svg)](https://www.ipc.org/)
-[![OSHW Certified CZ000014](./docs/oshw-cz000014.svg)](https://certification.oshwa.org/cz000014.html)
+[![OSHW Certified CZ000014](https://raw.githubusercontent.com/oshwa/certification-mark/master/sources/oshw-certification-mark-logo-v2.6.png)](https://certification.oshwa.org/cz000014.html)
 
 ---
 
